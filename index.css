@@ -1,0 +1,5 @@
+body, header, main, footer{
+    border: 2px salmon solid; 
+    min-height: 50px;
+    margin-top: 1.5rem
+}
